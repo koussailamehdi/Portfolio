@@ -24,7 +24,10 @@ In my Ecommerce position one of my responsibilities was to oversee the correct o
 * [Selenium](https://www.selenium.dev/)
 * [Robot framework](https://robotframework.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
+* [Charles] (https://www.charlesproxy.com/) - SSH
 
+*SQL
+ 
 | syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
 |:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
 | SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
