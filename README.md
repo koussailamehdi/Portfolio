@@ -9,12 +9,12 @@ Koussaila Maouchi, an E-commerce professional . Passionate about visual storytel
 In my Ecommerce position one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience,to the IT world, has allowed me to develop valuable soft skills in particular.
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
+* [Jira](https://www.atlassian.com/en/software/jira), [Trello](https://trello.com/pl/tour) - project management
 * [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
 * [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
 * [Slack](https://slack.com/) - communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
+* [Google Drive](https://www.google.com/drive/) - storing data
 * [Git](https://git-scm.com/) - for better work in development team and controlling software versions
 * [GitHub](https://github.com/) - supporting Git and preparing my repositories
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
